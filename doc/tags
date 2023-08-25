@@ -1,0 +1,7 @@
+:vul	vim-vul.txt	/*:vul*
+:vulInstall	vim-vul.txt	/*:vulInstall*
+:vulUpdate	vim-vul.txt	/*:vulUpdate*
+vim-vul	vim-vul.txt	/*vim-vul*
+vim-vul-commands	vim-vul.txt	/*vim-vul-commands*
+vim-vul-contents	vim-vul.txt	/*vim-vul-contents*
+vim-vul.txt	vim-vul.txt	/*vim-vul.txt*
