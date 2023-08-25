@@ -1,0 +1,21 @@
+*vim-vul.txt*
+                                                                   *vim-vul*
+
+==============================================================================
+CONTENTS                                                  *vim-vul-contents*
+  1. Commands.............................................|vim-vul-commands|
+
+==============================================================================
+COMMANDS                                                  *vim-vul-commands*
+
+:vul                                                                *:vul*
+  Run vul against the current directory and populate the QuickFix list
+
+:vulInstall                                                  *:vulInstall*
+  Install the latest version of vul to %GOPATH/bin/vul
+
+:vulUpdate                                                    *:vulUpdate*
+  Updates vul to the latest version, requires vul to be on the path
+
+
+vim:tw=78:ts=8:ft=help:norl:
